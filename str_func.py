@@ -5,6 +5,7 @@ def str_to_upper(string):
     :return string:
     """
     if isinstance(string, str):
+        # TODO
         return string.upper()
     else:
         return 'Функция принимает только строки'
