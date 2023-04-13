@@ -1,6 +1,5 @@
 def str_to_upper(string):
     """
-    Возвращает строку изменяя регистр заглавными буквами
     :param string:
     :return string:
     """
