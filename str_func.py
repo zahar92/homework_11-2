@@ -1,6 +1,7 @@
 def str_to_upper(string):
     """
     Возвращает строку изменяя регистр
+    // Правка на стороне git, ветка develop
     :param string:
     :return string:
     """
